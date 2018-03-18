@@ -1,7 +1,7 @@
 {
-  "name": "Flask Rest api",
+  "name": "Flask Starter template",
   "description": "A Flask Restful app",
   "repository": "https://github.com/tsghosh/python-flask-starter-template.git",
   "logo": "http://www.unixstickers.com/image/cache/data/stickers/flask/Flask-logo.sh-600x600.png",
-  "keywords": ["Flask", "Python", "Rest API"]
+  "keywords": ["Flask", "Python", "Rest API","Starter Template"]
 }
